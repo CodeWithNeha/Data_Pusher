@@ -52,7 +52,6 @@ Open your web browser and go to `http://localhost:8000/docs`.
 
 - **Account Endpoints**:
 
-  - `GET /accounts`: Retrieve all accounts.
   - `GET /accounts/{account_id}`: Retrieve details of a specific account.
   - `POST /accounts`: Create a new account.
   - `PUT /accounts/{account_id}`: Update an existing account.
